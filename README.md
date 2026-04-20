@@ -1,4 +1,4 @@
-# Gustavo Meilus
+# Gustavo Meilus — Senior QA Automation Engineer
 
 <!--[![Azgm07's GitHub stats](https://github-readme-stats.vercel.app/api?username=azgm07)](https://github.com/azgm07/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azgm07&layout=compact)-->
