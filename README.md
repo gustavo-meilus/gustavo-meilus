@@ -8,7 +8,7 @@
 
 ## Summary
 
-- ### 💻 Automation Engineer
+- ### 💻 Senior QA Automation Engineer | Playwright · TypeScript · Python | MCP Server Author | AI-powered testing tools
 <!-- - ### 🎨 Enthusiastic about 3d modelling in Blender -->
 - ### 🗣️ Speaks Portuguese and English  
 <!-- - ### ✍️ Aspiring about writing and narrative design -->
