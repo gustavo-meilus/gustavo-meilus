@@ -10,9 +10,6 @@
 - ### 🗣️ Speaks Portuguese and English  
 <!-- - ### ✍️ Aspiring about writing and narrative design -->
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavo-meilus&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 > Building AI-powered testing infrastructure with Playwright, TypeScript, and Python.
 
 ## What I Work On
